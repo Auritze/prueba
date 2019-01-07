@@ -1,3 +1,8 @@
+---
+title: Informazio orokorra
+weight: 2
+---
+
 ## Izenburua
 
 ### Azpitituloa
