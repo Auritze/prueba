@@ -23,13 +23,13 @@ void setup ()  ```cpp bidez
 void setup ()
 ```
 
-![Arduino](https://github.com/Auritze/prueba/blob/master/irudiak/descarga%20(1).jpg)
+![Arduino2](https://github.com/Auritze/prueba/blob/master/irudiak/descarga%20(1).jpg)
 
-![Arduino](https://github.com/Auritze/prueba/blob/master/irudiak/descarga%20(2).jpg)
-![Arduino](https://github.com/Auritze/prueba/blob/master/irudiak/descarga%20(3).jpg)
-![Arduino](https://github.com/Auritze/prueba/blob/master/irudiak/descarga%20(4).jpg)
-![Arduino](https://github.com/Auritze/prueba/blob/master/irudiak/descarga.jpg)
-![Arduino](https://github.com/Auritze/prueba/blob/master/irudiak/images%20(1).jpg)
-![Arduino](https://github.com/Auritze/prueba/blob/master/irudiak/images.jpg)
+![Arduino3](https://github.com/Auritze/prueba/blob/master/irudiak/descarga%20(2).jpg)
+![Arduino4](https://github.com/Auritze/prueba/blob/master/irudiak/descarga%20(3).jpg)
+![Arduino5](https://github.com/Auritze/prueba/blob/master/irudiak/descarga%20(4).jpg)
+![Arduino6](https://github.com/Auritze/prueba/blob/master/irudiak/descarga.jpg)
+![Arduino7](https://github.com/Auritze/prueba/blob/master/irudiak/images%20(1).jpg)
+![Arduino8](https://github.com/Auritze/prueba/blob/master/irudiak/images.jpg)
 
 
