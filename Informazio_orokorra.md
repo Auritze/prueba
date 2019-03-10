@@ -16,6 +16,7 @@ weight: 2
 void setup ()  ```cpp bidez
 
 ```
+![Arduino2](https://github.com/Auritze/prueba/blob/master/irudiak/descarga%20(1).jpg)
 
 ![Arduino](https://cdn-tienda.bricogeek.com/2827-thickbox_default/arduino-uno.jpg)
 
@@ -23,7 +24,7 @@ void setup ()  ```cpp bidez
 void setup ()
 ```
 
-![Arduino2](https://github.com/Auritze/prueba/blob/master/irudiak/descarga%20(1).jpg)
+
 
 ![Arduino3](https://github.com/Auritze/prueba/blob/master/irudiak/descarga%20(2).jpg)
 ![Arduino4](https://github.com/Auritze/prueba/blob/master/irudiak/descarga%20(3).jpg)
